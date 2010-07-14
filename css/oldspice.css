@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* old spice vm design by NelsonAbalosJr.com */
+
+body {background:url(../images/bg.gif) repeat-x #000; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:14px;}
+.clr {clear:both;}
+#wrapper {width:1045px; margin:0 auto; position:relative;}
+#isiah_mustafa {width:330px; height:446px; background:url(../images/monocle_smile.png) no-repeat; position:absolute;}
+#oldspice_logo {width:361px; height:48px; background:url(../images/title.png) no-repeat; float:left; margin-left:527px;}
+
+#box-wrapper{width:713px; float:right;}
+#box-top {width:713px; height:37px; background:url(../images/box_top.png) no-repeat; float:left;}
+#box-bot {width:713px; height:29px; background:url(../images/box_bot.png) no-repeat; float:left;}
+
+#content {width:633px; float:left; background:url(../images/box_mid.png) repeat-y; padding:0 30px 0 40px;}
+
+#reddit-is-credit-to-team {color:#f2d08e; float:left; margin:400px 0 0 100px;}
+#reddit-is-credit-to-team a{color:#f2d08e; font-weight:bold;}
