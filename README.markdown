@@ -12,4 +12,4 @@ Hosts
 
 [http://idefax.net/oldspice/](http://idefex.net/oldspice/) ([area](http://www.reddit.com/user/area))
 
-[http://pixelatedgeek.com/oldspice_vm/](http://pixelatedgeek.com/oldspice_vm/)
+[http://pixelatedgeek.com/oldspice_vm/](http://pixelatedgeek.com/oldspice_vm/) ([Nelson Abalos Jr.](http://nelsonabalosjr.com/))
