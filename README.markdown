@@ -3,7 +3,9 @@ Old Spice Voicemail
 
 This is a PHP web app to generate voicemail mp3s from the Old Spice Guy's voice in [this video](http://www.youtube.com/watch?v=-8JsvwUcok0).
 
-It was originally created by [area](http://www.reddit.com/user/area) on Reddit, who posted the source code [here](https://www.dropbox.com/s/bdv060ml5aqeqje). Design added by [Nelson Abalos Jr.](http://nelsonabalosjr.com/).
+It was originally created by [area](http://www.reddit.com/user/area) on Reddit, who posted the source code [here](https://www.dropbox.com/s/bdv060ml5aqeqje). MP3 rips and design by [Nelson Abalos Jr.](http://nelsonabalosjr.com/).
+
+Many thanks to [Reddit](http://www.reddit.com/)!
 
 
 Hosts
